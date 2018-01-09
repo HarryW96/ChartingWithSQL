@@ -1,0 +1,26 @@
+{
+  "name": "chartingexperiment",
+  "version": "1.0.0",
+  "description": "An experiment to create a data driven dashboard using express, postgreSQL, chart.js and GraphQL",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^2.7.1",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryW96/ChartingWithSQL.git"
+  },
+  "author": "Harry Westbrook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryW96/ChartingWithSQL/issues"
+  },
+  "homepage": "https://github.com/HarryW96/ChartingWithSQL#readme"
+}
